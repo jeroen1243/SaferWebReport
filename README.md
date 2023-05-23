@@ -1,5 +1,6 @@
 # SaferWebReport
-Overview of all locations where people can report phishing and other malicious sites
+Overview of all locations where people can report phishing and other malicious sites. 
+Feel free to add sites, api's, mailadresses, etc. that didnn't yet make it in the list.
 
 # Anti-Phishing and Anti-Malware Reporting
 
